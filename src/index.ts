@@ -30,7 +30,6 @@ const biblioteca ={
 // Agregar libros a la biblioteca
 biblioteca.agregarLibro({ titulo: "Eternamente", autor: "Pablo Perez Rueda", año:2018 });
 biblioteca.agregarLibro({ titulo: "Guerra y Paz", autor: "Leon Tolstoi", año:1867 });
-
 biblioteca.agregarLibro({ titulo: "Mi Alma se la Dejo al Diablo", autor: "German Castro Caycedo", año:1982 });
 
 
